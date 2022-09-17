@@ -29,9 +29,6 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 * 📚 Sometimes, reading some economic and macro strategy books.
 * 📨 My email: feijiaqiang@126.com
 
-&emsp;&emsp;
-
-
 
 ### 📊 Coding time and language:
 
@@ -39,7 +36,6 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
-
 
 
 ### 🌱 What I'm doing now:
