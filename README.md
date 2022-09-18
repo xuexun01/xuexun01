@@ -19,7 +19,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
     <a href="https://space.bilibili.com/398195208"><img width="10%" src="https://img.shields.io/badge/bilibili-%E6%BE%B9%E5%AF%82-ff69b4.svg?logo=bilibili&style=for-the-badge"/></a>
 </p>
 
-[<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=xuexun01">](https://metrics.lecoq.io/xuexun01)
+[<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=xuexun01&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 * 🖋️ I'm current studying in the field of *human mobility* for COVID-19 prevention.
 * 🔍 Also learning some fundamental knowledge: computer architecture, os, unix programming.
@@ -32,7 +32,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ### 📊 Coding time and language:
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact">](https://metrics.lecoq.io/xuexun01)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2058%20mins-blue)
