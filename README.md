@@ -35,6 +35,75 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 18 Contributions in the Year 2022
+ > 
+> 📦 5.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+🌆 Daytime    3 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌃 Evening    8 commits      ███████████░░░░░░░░░░░░░░   47.06% 
+🌙 Night      4 commits      ██████░░░░░░░░░░░░░░░░░░░   23.53%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       4 commits      ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Wednesday    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Saturday     5 commits      ███████░░░░░░░░░░░░░░░░░░   29.41% 
+Sunday       4 commits      ██████░░░░░░░░░░░░░░░░░░░   23.53%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 1 hr 42 mins        ███████████████░░░░░░░░░░   60.28% 
+Assembly                 1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   39.32% 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+
+🔥 Editors: 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.0% 
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/xuexun01/xuexun01/main/charts/bar_graph.png) 
+
+
+ Last Updated on 18/09/2022 16:46:45 UTC
 <!--END_SECTION:waka-->
 
 
