@@ -35,17 +35,17 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-🌆 Daytime    3 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-🌃 Evening    8 commits      ██████████░░░░░░░░░░░░░░░   42.11% 
-🌙 Night      6 commits      ████████░░░░░░░░░░░░░░░░░   31.58%
+🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+🌃 Evening    8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
+🌙 Night      9 commits      ██████████░░░░░░░░░░░░░░░   40.91%
 
 ```
 
@@ -60,11 +60,11 @@ Makefile                 0 secs              ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-Python                   1 repo              ████████████░░░░░░░░░░░░░   50.0%
+Python                   2 repos             ████████████████░░░░░░░░░   66.67% 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
