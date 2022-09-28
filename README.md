@@ -35,7 +35,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,11 +54,11 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 11 mins       ██████████████████░░░░░░░   73.64% 
-C                        1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Assembly                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+Python                   12 hrs 48 mins      █████████████████████░░░░   84.14% 
+C                        1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+Assembly                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 ```
 
