@@ -37,7 +37,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -54,9 +54,9 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       █████████████████████░░░░   86.26% 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
+Python                   36 mins             ████████████████████████░   96.04% 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 ```
 
