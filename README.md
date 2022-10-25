@@ -27,7 +27,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 * 📎 Using C++/Python/Java/Matlab
 * 🛠️ Developed tool: &ensp; <img src="https://img.shields.io/badge/VS%20code-blue.svg?logo=visualstudiocode"> &ensp; <img src="https://img.shields.io/badge/IDEA-black.svg?logo=intellijidea"> &ensp; <img src="https://img.shields.io/badge/jupyter-white.svg?logo=jupyter">
 * 📚 Sometimes, reading some economic and macro strategy books.
-* 📨 My email: feijiaqiang@126.com
+* 📨 My email: feijiaqiang2022@ia.ac.cn
 
 
 ### 📊 Coding time and language:
