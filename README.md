@@ -16,7 +16,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 <p align="center">
     <a href="https://weibo.com/u/7724289776"><img width="10%" src="https://img.shields.io/badge/weibo-%E8%BD%BD%E9%85%92%E5%AF%92-red.svg?logo=sinaweibo&style=for-the-badge"/></a>
     <a href="https://www.zhihu.com/people/chang-ge-tian-ya-4"><img width="10%" src="https://img.shields.io/badge/zhihu-%E9%9B%AA%E5%AF%BB-blue.svg?logo=zhihu&style=for-the-badge"/></a>
-    <a href="https://space.bilibili.com/398195208"><img width="10%" src="https://img.shields.io/badge/bilibili-%E6%BE%B9%E5%AF%82-ff69b4.svg?logo=bilibili&style=for-the-badge"/></a>
+    <a href="https://space.bilibili.com/398195208/dynamic?spm_id_from=333.999.list.card_avatar.click"><img width="10%" src="https://img.shields.io/badge/bilibili-%E6%BE%B9%E5%AF%82-ff69b4.svg?logo=bilibili&style=for-the-badge"/></a>
 </p>
 
 [<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=xuexun01&show_icons=true">](https://metrics.lecoq.io/xuexun01)
