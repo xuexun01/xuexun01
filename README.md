@@ -35,9 +35,30 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+🌆 Daytime    6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+🌃 Evening    12 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
+🌙 Night      13 commits     █████████░░░░░░░░░░░░░░░░   39.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   6 hrs 49 mins       ████████████████████████░   98.84% 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+```
 
 **I Mostly Code in Python** 
 
