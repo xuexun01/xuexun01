@@ -54,7 +54,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
