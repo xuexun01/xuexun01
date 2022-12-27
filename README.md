@@ -54,7 +54,8 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 26 mins       ██████████████████████░░░   90.08% 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.92%
 
 ```
 
