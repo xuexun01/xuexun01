@@ -53,7 +53,8 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+Markdown                 21 mins             ███████████████████████░░   90.21 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 **I Mostly Code in Python** 
