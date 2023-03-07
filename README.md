@@ -35,7 +35,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -53,8 +53,8 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ```text
 💬 Programming Languages: 
-Markdown                 52 mins             █████████████████░░░░░░░░   69.56 % 
-Python                   22 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Markdown                 30 mins             ███████████████░░░░░░░░░░   59.78 % 
+Python                   20 mins             ██████████░░░░░░░░░░░░░░░   40.22 % 
 ```
 
 **I Mostly Code in Python** 
