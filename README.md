@@ -11,7 +11,7 @@ I'm glad you open the readme.md file, and hope you will get something out of it.
 
 
 
-Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute of Automation, Chinese Academy of Sciences.
+Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute of Automation, Chinese Academy of Sciences at now.
 
 <p align="center">
     <a href="https://weibo.com/u/7724289776"><img width="10%" src="https://img.shields.io/badge/weibo-%E8%BD%BD%E9%85%92%E5%AF%92-red.svg?logo=sinaweibo&style=for-the-badge"/></a>
