@@ -32,8 +32,6 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 
 ### 📊 Coding time and language:
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuexun01&layout=compact&show_icons=true">](https://metrics.lecoq.io/xuexun01)
-
 <!--START_SECTION:waka-->
 
 ```text
