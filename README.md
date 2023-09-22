@@ -43,10 +43,3 @@ Other        2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-### 🌱 What I'm doing now:
-
-* reading papers about human mobility extensively.
-* update DL4HM repository.
-* learning basic knowledge.
