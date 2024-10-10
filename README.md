@@ -35,10 +35,10 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 <!--START_SECTION:waka-->
 
 ```txt
-Python            381 hrs 50 mins █████████████████▓░░░░░░░   70.43 %
-Markdown          133 hrs 7 mins  ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Python            383 hrs 44 mins █████████████████▓░░░░░░░   70.53 %
+Markdown          133 hrs 7 mins  ██████░░░░░░░░░░░░░░░░░░░   24.47 %
 JSON              4 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Text              3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Text              3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 CSV               3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
