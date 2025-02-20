@@ -37,7 +37,7 @@ Hey~, I'm **[xuexun](https://github.com/xuexun01)**, a phD student at Institute 
 ```txt
 Python            461 hrs 6 mins  ██████████████████▒░░░░░░   73.63 %
 Markdown          134 hrs 36 mins █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Text              6 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text              6 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 JSON              4 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 CSV               4 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
